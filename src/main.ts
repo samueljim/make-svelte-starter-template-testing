@@ -4,7 +4,7 @@ const app = new App({
   target: document.body,
   props: {
     templateProps: window.templateProps || {
-      headline: 'Hello World',
+      headline: 'Hello Sam',
       showLogos: true,
       backgroundImage: ''
     }
